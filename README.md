@@ -25,5 +25,5 @@
 <h2 align="center">Education</h2>
 
 <p align="center"> 
-  I don't have formal education in programming yet, but I have been studying through online courses and tutorials. I'm constantly eager to learn and expand my skillset, so I'm always on the lookout for new opportunities and resources.
+  I am a self-taught young programmer, and I have been dedicated to learning as much as I can about programming through online learning platforms, forums, and documentation. My main focus has been on technologies like Node.js and Python, and I have been experimenting with various personal projects to hone my skills. I also make a point to attend online events and lectures to stay up-to-date on the latest trends and developments in the technology industry.
 </p>
