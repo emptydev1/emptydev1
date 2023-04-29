@@ -1,21 +1,29 @@
-# About me
+<h1 align="center"> Hi there! 👋</h1>
 
-:wave: Hello! My name is **Lucas**, I'm **14 years old**, and I'm a programming enthusiast from Brazil. I started studying programming in 2022, and it has been an exciting journey so far. My goal is to become a software developer and make a meaningful impact in the technology industry.
+<p align="center">
+  <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/1036018691562803260"></a>
+  <a href="https://github.com/your_username_here"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/your_username_here"></a>
+</p>
 
-## Skills and Experience
+<p align="center"> 
+  I'm Lucas, a programming enthusiast from Brazil. My goal is to become a software developer and make a meaningful impact in the technology industry.
+</p>
 
-- :rocket: Node.js (80%)
-- :snake: Python (20%)
-- :seedling: Lua and C (basic knowledge)
+<h2 align="center">Skills and Experience</h2>
 
-I have been studying Node.js extensively over the past year and have a good grasp of the technology. Recently I started studying Python and aim to delve deeper. I also have some basic knowledge of Lua and C that I have used to create a few small projects. I usually develop APIs for various purposes and occasionally create bots for Discord.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white">
+</p>
 
-## Education
+<p align="center"> 
+  I have been studying Node.js extensively over the past year and have a good grasp of the technology. Recently I started studying Python and aim to delve deeper. I also have some basic knowledge of Lua and C that I have used to create a few small projects. I usually develop APIs for various purposes and occasionally create bots for Discord.
+</p>
 
-:mortar_board: I don't have formal education in programming yet, but I have been studying through online courses and tutorials.
+<h2 align="center">Education</h2>
 
-:books: I'm constantly eager to learn and expand my skillset, so I'm always on the lookout for new opportunities and resources.
-
-## Contact
-
-:speech_balloon: You can reach me through my **[Discord profile](https://discord.com/users/1036018691562803260)**. I'm happy to connect with other developers and chat about technology! I also have a few repositories on **[GitHub](https://github.com/your_username_here)** with some of my projects. While I don't usually work on large projects, I hope they can be useful to others in the community.
+<p align="center"> 
+  I don't have formal education in programming yet, but I have been studying through online courses and tutorials. I'm constantly eager to learn and expand my skillset, so I'm always on the lookout for new opportunities and resources.
+</p>
