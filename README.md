@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there! 👋</h1>
+<h1 align="center"> Hi there! <img src="https://images-ext-2.discordapp.net/external/zXfi4pbNQnDyPEIwL0SI1SDa1en5JprLMu8g7snfcpk/https/cdn.discordapp.com/emojis/1070539611870347284.png" width="30px"></h1>
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/1036018691562803260"></a>
-  <a href="https://github.com/your_username_here"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/your_username_here"></a>
+  <a href="https://github.com/emptydev1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/emptydev1"></a>
 </p>
 
 <p align="center"> 
