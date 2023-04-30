@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src="https://images-ext-2.discordapp.net/external/zXfi4pbNQnDyPEIwL0SI1SDa1en5JprLMu8g7snfcpk/https/cdn.discordapp.com/emojis/1070539611870347284.png" width="30px"></h1>
+<h1 align="center">Hi there! <img src="https://images-ext-2.discordapp.net/external/zXfi4pbNQnDyPEIwL0SI1SDa1en5JprLMu8g7snfcpk/https/cdn.discordapp.com/emojis/1070539611870347284.png" width="30px"></h1>
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/1036018691562803260"></a>
@@ -31,6 +31,7 @@
 
 <h2 align="center">Statistics</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/emptydev1)
-<br />
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/emptydev1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&layout=compact&show_icons=true&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
