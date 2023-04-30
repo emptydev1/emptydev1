@@ -26,7 +26,7 @@
 <h2 align="center">Education</h2>
 
 <p align="center"> 
-  I am a self-taught young programmer, and I have been dedicated to learning as much as I can about programming through online learning platforms, forums, and documentation. My main focus has been on technologies like Node.js and Python, and I have been experimenting with various personal projects to hone my skills. I also make a point to attend online events and lectures to stay up-to-date on the latest trends and developments in the technology industry.
+  I am a self-taught young programmer, and I have been dedicated to learning as much as I can about programming through online learning platforms, forums, and documentation. I also make a point to attend online events and lectures to stay up-to-date on the latest trends and developments in the technology industry.
 </p>
 
 <h2 align="center">Statistics</h2>
