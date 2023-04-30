@@ -31,6 +31,6 @@
 
 <h2 align="center">Statistics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&theme=radical)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&hide=java&layout=compact&theme=radical)
+[![](https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/emptydev1)
+<br />
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/emptydev1)
