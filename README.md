@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-  I'm Lucas, a 14 years old programming enthusiast from Brazil. My goal is to become a software developer and make a meaningful impact in the technology industry.
+  My name is Lucas, I live in Brazil, I'm 14 years old and I'm a programming enthusiast. My goal is to become a software developer and make a meaningful impact in the technology industry.
 </p>
 
 <h2 align="center">Skills and Experience</h2>
