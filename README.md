@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/1036018691562803260"></a>
+  <a href="https://www.instagram.com/emptydev/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/empty_dev_/"></a>
   <a href="https://github.com/emptydev1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/emptydev1"></a>
 </p>
 
@@ -19,7 +20,7 @@
 </p>
 
 <p align="center"> 
-  I have been studying Node.js extensively over the past year and have a good grasp of the technology. Recently I started studying Python and aim to delve deeper. I also have some basic knowledge of Lua and C that I have used to create a few small projects. I usually develop APIs for various purposes and occasionally create bots for Discord.
+  I have been studying Node.js extensively over the past year and have a good grasp of the technology. Recently, I started studying Python and aim to delve deeper. I also have some basic knowledge of Lua and C that I have used to create a few small and simple projects. Typically, I develop APIs for various purposes and occasionally create applications for Discord.
 </p>
 
 <h2 align="center">Education</h2>
