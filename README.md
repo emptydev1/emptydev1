@@ -6,7 +6,7 @@
   <a href="https://github.com/emptydev1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/emptydev1"></a>
 </p>
 
-<img src="https://github.com/sebastianjnuwu/sebastianjnuwu/blob/output/github-contribution-grid-snake.svg"/>
+<img src="/.github/workflows/snake.yml"/>
 
 <p align="center"> 
   My name is Lucas, I live in Brazil, I'm 14 years old and I'm a programming enthusiast. My goal is to become a software developer and make a meaningful impact in the technology industry.
