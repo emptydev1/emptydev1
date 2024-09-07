@@ -1,5 +1,6 @@
 :root {
-    --color: #112bc0;
+    --color: #2989F7;
+    --bg-color: #1F1E1E;
 }
 
 * {
@@ -20,7 +21,7 @@ body {
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
-    background-color: black;
+    background-color: var(--bg-color);
     color: white;
 }
 
@@ -37,18 +38,6 @@ header {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-}
-
-.logo {
-    font-size: 3rem;
-    color: var(--color);
-    font-weight: 800;
-    cursor: pointer;
-    transition: 0.5s ease;
-}
-
-.logo:hover {
-    transform: scale(1.1);
 }
 
 nav a {
@@ -95,7 +84,6 @@ nav a:hover, nav a.active {
         border-radius: 0.5rem;
         border-bottom: 0.5rem solid var(--color);
     }
-
 }
 
 section {
@@ -108,7 +96,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 8rem;
-    background-color: black;
+    background-color: var(--bg-color);
 }
 
 .home .content h1 {
@@ -130,6 +118,9 @@ span {
 .home .content p {
     color: #d3cccc;
     font-size: 1.7rem;
+    text-align: justify;
+    text-align-last: left;
+    hyphens: auto;
 }
 
 .icon {
@@ -191,11 +182,11 @@ span {
 
 .typing span::after {
     content: "";
-    background-color: black;
+    background-color: var(--bg-color);
     position: absolute;
     width: calc(100% + 8px);
     height: 100%;
-    border-left: 3px solid black;
+    border-left: 3px solid var(--bg-color);
     right: -8;
     animation: cursor 0.6s infinite;
     z-index: 1;
@@ -210,14 +201,14 @@ span {
 
 @media (max-width: 1000px) {
     .home {
-        gap: 4rem;
+        gap: 3rem;
     }
 }
 
 @media (max-width: 995px) {
     .home {
         flex-direction: column;
-        margin: 5rem 4rem;
+        margin: 2rem 1rem;
     }
 
     .home .content h1 {

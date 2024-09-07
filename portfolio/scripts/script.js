@@ -1,1 +1,1 @@
-'use strict';!function(t){let e=document.querySelector(".typing span"),n=0,o=t=>{e.textContent="",$(t)},$=(g,l=0)=>{l<g.length?(e.textContent+=g[l++],setTimeout(()=>$(g,l),200)):setTimeout(()=>{o(t[n=(n+1)%t.length])},1700)};o(t[n])}(["IT Student","Programming Enthusiast","Developer"]);
+'use strict';!function(t){let e=document.querySelector(".typing span"),n=0,o=t=>{e.textContent="",$(t)},$=(g,l=0)=>{l<g.length?(e.textContent+=g[l++],setTimeout(()=>$(g,l),200)):setTimeout(()=>{o(t[n=(n+1)%t.length])},1700)};o(t[n])}(["IT Student","Code Lover","Developer"]);
