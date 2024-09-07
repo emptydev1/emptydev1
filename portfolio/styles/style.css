@@ -1,0 +1,235 @@
+:root {
+    --color: #112bc0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+}
+
+header {
+    margin-top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 9%;
+    background-color: transparent;
+    filter: drop-shadow(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    font-size: 3rem;
+    color: var(--color);
+    font-weight: 800;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+nav a {
+    font-size: 1.8rem;
+    color: white;
+    margin-left: 4rem;
+    font-weight: 500;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+}
+
+nav a:hover, nav a.active {
+    color: var(--color);
+    border-bottom: 3px solid var(--color);
+}
+
+@media (max-width: 995px) {
+    nav {
+        position: absolute;
+        display: none;
+        top: 0;
+        right: 0;
+        width: 40%;
+        border-left: 3px solid var(--color);
+        border-bottom: 3px solid var(--color);
+        border-bottom-left-radius: 2rem;
+        padding: 1rem solid;
+        background-color: #161616;
+        border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+    }
+
+    nav.active {
+        display: block;
+    }
+
+    nav a {
+        display: block;
+        font-size: 2rem;
+        margin: 3rem 5px;
+    }
+
+    nav a:hover, nav.active {
+        padding: 1rem;
+        border-radius: 0.5rem;
+        border-bottom: 0.5rem solid var(--color);
+    }
+
+}
+
+section {
+    min-height: 100vh;
+    padding: 5rem 9% 5rem;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    background-color: black;
+}
+
+.home .content h1 {
+    font-size: 6rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+span {
+    color: var(--color);
+}
+
+.home .content h3 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.home .content p {
+    color: #d3cccc;
+    font-size: 1.7rem;
+}
+
+.icon {
+    border-radius: 50%;
+}
+
+.icon img {
+    position: relative;
+    width: 32vw;
+    border-radius: 50%;
+    box-shadow: 0 0 25px solid var(--color);
+    cursor: pointer;
+    transition: 0.2s linear;
+}
+
+.icon img:hover {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.social a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background-color: transparent;
+    border: 0.2rem solid var(--color);
+    font-size: 2rem;
+    border-radius: 50%;
+    margin: 3rem 1.5rem 3rem 0;
+    transition: 0.3s ease;
+    color: white;
+}
+
+.social a:hover {
+    transform: scale(1.1) translateY(-5px);
+    background-color: var(--color);
+    box-shadow: 0 0 25px var(--color);
+}
+
+.typing {
+    font-size: 34px;
+    font-weight: 600;
+    min-width: 280px;
+    position: relative;
+}
+
+.typing span {
+    position: relative;
+    display: inline-block;
+}
+
+.typing span::before {
+    color: var(--color);
+    animation: words 20s infinite;
+    display: inline-block;
+}
+
+.typing span::after {
+    content: "";
+    background-color: black;
+    position: absolute;
+    width: calc(100% + 8px);
+    height: 100%;
+    border-left: 3px solid black;
+    right: -8;
+    animation: cursor 0.6s infinite;
+    z-index: 1;
+}
+
+@keyframes cursor {
+    from { border-left-color: transparent; }
+    to { border-left: 3px solid var(--color) }
+}
+
+
+
+@media (max-width: 1000px) {
+    .home {
+        gap: 4rem;
+    }
+}
+
+@media (max-width: 995px) {
+    .home {
+        flex-direction: column;
+        margin: 5rem 4rem;
+    }
+
+    .home .content h1 {
+        font-size: 5rem;
+    }
+
+    .home .content h3 {
+        font-size: 2.5rem;
+    }
+
+    .icon img {
+        width: 70vw;
+        margin-top: 4rem;
+    }
+}
