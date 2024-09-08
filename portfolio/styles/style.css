@@ -1,5 +1,6 @@
 :root {
-    --color: #2989F7;
+    --color: #7B36C5;
+    --color-l2: #9B5FC7;
     --bg-color: #1F1E1E;
 }
 
@@ -106,7 +107,10 @@ section {
 }
 
 span {
-    color: var(--color);
+    background: linear-gradient(to right, var(--color), var(--color-l2));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 
 .home .content h3 {
@@ -124,16 +128,17 @@ span {
 }
 
 .icon {
-    border-radius: 50%;
+    position: relative;
+    width: fit-content;
 }
 
 .icon img {
     position: relative;
     width: 32vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px solid var(--color);
     cursor: pointer;
     transition: 0.2s linear;
+    box-shadow: 0 0 2.5rem var(--color);
 }
 
 .icon img:hover {
@@ -192,17 +197,8 @@ span {
     z-index: 1;
 }
 
-@keyframes cursor {
-    from { border-left-color: transparent; }
-    to { border-left: 3px solid var(--color) }
-}
-
-
-
 @media (max-width: 1000px) {
-    .home {
-        gap: 3rem;
-    }
+    .home { gap: 3rem; }
 }
 
 @media (max-width: 995px) {
@@ -212,7 +208,7 @@ span {
     }
 
     .home .content h1 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 
     .home .content h3 {
@@ -223,4 +219,9 @@ span {
         width: 70vw;
         margin-top: 4rem;
     }
+}
+
+@keyframes cursor {
+    from { border-left-color: transparent; }
+    to { border-left: 3px solid var(--color) }
 }
