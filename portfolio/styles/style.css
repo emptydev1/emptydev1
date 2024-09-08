@@ -14,6 +14,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     font-size: 62.5%;
 }
 
@@ -61,8 +62,8 @@ nav a {
     color: white;
     margin-left: 4rem;
     font-weight: 500;
-    transition: 0.3s ease;
     border-bottom: 3px solid transparent;
+    transition: .3s ease-in;
 }
 
 nav a:hover, nav a.active {
@@ -70,12 +71,8 @@ nav a:hover, nav a.active {
     border-bottom: 3px solid var(--color);
 }
 
-nav a:hover {
-    transform: scale(1.05);
-}
-
 section {
-    min-height: 30vh;
+    min-height: 40vh;
     padding: 5rem 9% 5rem;
 }
 
@@ -97,6 +94,7 @@ span {
     background: linear-gradient(to right, var(--color), var(--color-l2));
     -webkit-background-clip: text;
     background-clip: text;
+    font-weight: 900;
     color: transparent;
 }
 
@@ -111,7 +109,7 @@ h3 {
 }
 
 .home .content p {
-    color: #d3cccc;
+    color: #ccc;
     font-size: 1.5rem;
     text-align: justify;
     text-align-last: left;
@@ -125,8 +123,8 @@ h3 {
 
 .icon img {
     position: relative;
-    width: 32vw;
-    border-radius: 100%;
+    width: 29vw;
+    border-radius: 50%;
     cursor: pointer;
     transition: 0.2s linear;
     box-shadow: 0 0 2.5rem var(--color);
@@ -155,14 +153,15 @@ h3 {
 
 .social a:hover {
     transform: scale(1.1) translateY(-5px);
-    background-color: var(--color);
+    background: linear-gradient(to right, var(--color), var(--color-l2));
     box-shadow: 0 0 25px var(--color);
 }
 
 .typing {
     font-size: 34px;
-    font-weight: 600;
+    font-weight: 500;
     min-width: 280px;
+    color: #d3d2d2;
     position: relative;
 }
 
