@@ -121,7 +121,7 @@ span {
 
 .home .content p {
     color: #d3cccc;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     text-align: justify;
     text-align-last: left;
     hyphens: auto;
@@ -139,6 +139,7 @@ span {
     cursor: pointer;
     transition: 0.2s linear;
     box-shadow: 0 0 2.5rem var(--color);
+    animation: 4s shadow ease-in-out infinite;
 }
 
 .icon img:hover {
@@ -224,4 +225,9 @@ span {
 @keyframes cursor {
     from { border-left-color: transparent; }
     to { border-left: 3px solid var(--color) }
+}
+
+@keyframes shadow {
+    50% { box-shadow: 0 0 5rem var(--color); }
+    100% { box-shadow: 0 0 2.5rem var(--color); }
 }
