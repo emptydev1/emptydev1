@@ -2,42 +2,44 @@
 
 <p align="center">
   <a href="https://discord.com/users/1036018691562803260"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/1036018691562803260"></a>
-  <a href="https://www.instagram.com/emptydev/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/empty_dev_/"></a>
+  <a href="https://www.instagram.com/emptydev/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/emptydev/"></a>
   <a href="https://github.com/emptydev1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/emptydev1"></a>
 </p>
 
 <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"/>
 
-<p align="center"> 
-  My name is Lucas, I live in Brazil, I'm 14 years old and I'm a programming enthusiast. My goal is to become a software developer and make a meaningful impact in the technology industry.
+<p align="center" style="font-size: 18px;">
+  I'm <strong>Lucas</strong>, a passionate coder from Brazil, and I'm just getting started on my adventure in the vast universe of programming! 🚀 At only <strong>15 years old</strong>, I've already set my sights on becoming a leading software developer and leaving a mark on the tech world. Let's create something amazing together!
 </p>
 
-<h2 align="center">Skills and Experience</h2>
+<h2 align="center">💻 My Tech Arsenal</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 </p>
 
-<p align="center"> 
-  I have been studying Node.js extensively over the past year and have a good grasp of the technology. Recently, I started studying Python and aim to delve deeper. I also have some basic knowledge of Lua and C that I have used to create a few small and simple projects. Typically, I develop APIs for various purposes and occasionally create applications for Discord.
+<p align="center" style="max-width: 800px; margin: 0 auto;">
+  I'm mastering the art of <strong>Node.js</strong> to build dynamic applications and diving deep into <strong>Python</strong> for data-driven projects. Currently, I'm exploring the powerful world of <strong>Java</strong>, and I have a budding curiosity for <strong>C++</strong>. My mission? Craft innovative APIs and interactive applications for Discord that bring joy to users everywhere! 🎮
 </p>
 
-<h2 align="center">Education</h2>
+<h2 align="center">📚 My Journey in Tech</h2>
 
-<p align="center"> 
-  I am a self-taught young programmer, and I have been dedicated to learning as much as I can about programming through online learning platforms, forums, and documentation.
+<p align="center" style="max-width: 800px; margin: 0 auto;">
+  A self-taught programmer on a quest for knowledge, I've harnessed the power of online resources and community forums to fuel my passion. I attend virtual workshops and tech talks to keep my skills sharp and my mind buzzing with new ideas. The tech world is my playground, and I'm here to explore every inch of it! 🌐
 </p>
 
-<p align="center">
-  I also make a point to attend online events and lectures to stay up-to-date on the latest trends and developments in the technology industry.
-</p>
-
-<h2 align="center">Statistics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&layout=compact&show_icons=true&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<h2 align="center">🌟 Let's Connect!</h2>
+
+<p align="center" style="font-size: 18px;">
+  I'm always eager to meet fellow tech enthusiasts and collaborate on exciting projects. Feel free to reach out through my social links above or drop me a message on Discord!
 </p>
