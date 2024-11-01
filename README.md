@@ -8,11 +8,11 @@
 
 <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"/>
 
-<p align="center" style="font-size: 18px;">
-  I'm <strong>Lucas</strong>, a passionate coder from Brazil, and I'm just getting started on my adventure in the vast universe of programming! 🚀 At only <strong>15 years old</strong>, I've already set my sights on becoming a leading software developer and leaving a mark on the tech world. Let's create something amazing together!
+<p align="center">
+  My name is <strong>Lucas</strong>, a 15-year-old programming enthusiast from Brazil. I am pursuing a career in software development with the goal of making significant contributions to the technology industry.
 </p>
 
-<h2 align="center">💻 My Tech Arsenal</h2>
+<h2 align="center">Skills and Experience</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
@@ -21,25 +21,25 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 </p>
 
-<p align="center" style="max-width: 800px; margin: 0 auto;">
-  I'm mastering the art of <strong>Node.js</strong> to build dynamic applications and diving deep into <strong>Python</strong> for data-driven projects. Currently, I'm exploring the powerful world of <strong>Java</strong>, and I have a budding curiosity for <strong>C++</strong>. My mission? Craft innovative APIs and interactive applications for Discord that bring joy to users everywhere! 🎮
+<p align="center">
+  I have a solid foundation in <strong>Node.js</strong> for building scalable applications and am proficient in <strong>Python</strong> for various programming tasks. Currently, I am studying <strong>Java</strong> to enhance my programming capabilities, along with a developing knowledge of <strong>C++</strong>. My focus is to develop APIs, interactive applications for platforms like Discord and tools that can be useful for the development of third-party projects.
 </p>
 
-<h2 align="center">📚 My Journey in Tech</h2>
+<h2 align="center">Education</h2>
 
-<p align="center" style="max-width: 800px; margin: 0 auto;">
-  A self-taught programmer on a quest for knowledge, I've harnessed the power of online resources and community forums to fuel my passion. I attend virtual workshops and tech talks to keep my skills sharp and my mind buzzing with new ideas. The tech world is my playground, and I'm here to explore every inch of it! 🌐
+<p align="center">
+  I am a self-taught programmer actively engaged in online learning and participation in tech-related events. I strive to stay updated on industry trends and advancements through continuous education.
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emptydev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptydev1&layout=compact&show_icons=true&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<h2 align="center">🌟 Let's Connect!</h2>
+<h2 align="center">Contact</h2>
 
-<p align="center" style="font-size: 18px;">
-  I'm always eager to meet fellow tech enthusiasts and collaborate on exciting projects. Feel free to reach out through my social links above or drop me a message on Discord!
+<p align="center">
+  I welcome collaboration and discussions with other tech enthusiasts. Please feel free to connect through my social media links provided above.
 </p>
